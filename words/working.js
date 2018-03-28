@@ -68,5 +68,14 @@
 		"a" : "n. 洞察力；眼力；深刻见解（insight的复数)",
 		"b" : "Certain objects could help us in doing so by providing insights and surprises."
 	},
-	
+
+	"Liberty" : {
+		"a" : "['lɪbɚti] n. 自由；许可；冒失",
+		"b" : "Swallows fly about, carefree and at liberty."
+	},
+
+	"statue" : {
+		"a" : "['stætju:, -tʃu]. n. 雕像，塑像",
+		"b" : "This flexibility allows the statue to sway in the harbor winds."
+	}
 }
